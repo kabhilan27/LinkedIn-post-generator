@@ -73,9 +73,9 @@ Whether you want to **generate new posts**, **rewrite existing ones**, **receive
 3. **Set up Environment Variables**
    - Create a `.env` file in the root directory  
    - Add your Groq API key:  
-     ```
-     GROQ_API_KEY=your_api_key_here
-     ```
+   ```
+   GROQ_API_KEY=your_api_key_here
+   ```
 
 4. **Run the App**
    ```bash
